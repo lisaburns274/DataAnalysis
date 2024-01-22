@@ -1,0 +1,12 @@
+good overview:
+https://www.tutorialspoint.com/excel_data_analysis/index.htm
+
+templates/examples provided by Microsoft:
+https://create.microsoft.com/en-us/excel-templates
+
+Micrsoft provided training videos:
+https://support.microsoft.com/en-au/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb
+
+
+good video to watch:
+video: https://youtu.be/UeJWCqJysKI
