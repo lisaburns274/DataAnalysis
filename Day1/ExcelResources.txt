@@ -10,3 +10,8 @@ https://support.microsoft.com/en-au/office/excel-video-training-9bc05390-e94c-46
 
 good video to watch:
 video: https://youtu.be/UeJWCqJysKI
+
+
+------------------------------------------
+for extra, raw data sets:
+https://www.kaggle.com/
